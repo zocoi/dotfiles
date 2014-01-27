@@ -48,4 +48,4 @@ bind down:cmd;alt focus behind
 bind esc:cmd hint
 
 # Grid
-bind esc:ctrl grid
+bind g:cmd grid 8,3
