@@ -1,0 +1,4 @@
+.slate
+======
+
+Personal .slate config
