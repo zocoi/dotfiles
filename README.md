@@ -1,4 +1,5 @@
-.slate
+dotfiles
 ======
 
-Personal .slate config
+Personal dotfiles config
+- Slate
