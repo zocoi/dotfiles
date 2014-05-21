@@ -1,9 +1,7 @@
 dotfiles
 ========
 
-My personal dotfiles config
-
-From: http://dotfiles.github.io
+My personal dotfiles config inspired from: http://dotfiles.github.io
 
 Why would I want my dotfiles on GitHub?
 
