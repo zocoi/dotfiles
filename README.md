@@ -12,9 +12,15 @@ Why would I want my dotfiles on GitHub?
 Install
 ----
 
-Run this:
+First install `rcm` and symlink file from this repo to your Home folder
 
 ```sh
 brew install rcm
 rcup -d /path/to/repo
+```
+
+If you have dotfiles which should stay in git
+
+```sh
+mkrc -d /path/to/repo file1 file2
 ```
